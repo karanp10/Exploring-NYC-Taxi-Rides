@@ -1,2 +1,2 @@
 # Exploring-NYC-Taxi-Rides
-This project explores and analyzes the New York City Taxi Fare dataset to predict taxi fares using machine learning models.
+"Exploring NYC Taxi Rides" is a data analysis project that explores the New York City taxi ride dataset, using various statistical and machine learning techniques to gain insights into the relationships between different variables and improve the accuracy of fare predictions. The project includes data cleaning, feature engineering, and exploratory data analysis, as well as model training and evaluation. The goal of the project is to provide a better understanding of the factors that affect taxi fares in New York City and to develop more accurate models for fare prediction.
